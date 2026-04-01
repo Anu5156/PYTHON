@@ -39,3 +39,6 @@ a&=2 #a=a&2
 print(a) #0.0
 a|=2 #a=a|2
 print(a) #2.0
+
+
+#python doesnot have the increement operator like (++) and decrement operator like (--) as in other programming languages.
